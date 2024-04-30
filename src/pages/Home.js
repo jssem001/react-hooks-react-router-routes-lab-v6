@@ -20,7 +20,7 @@ function Home() {
     <>
       <header>
         {/* What component should go here? */}
-        {NavBar}
+        <NavBar />
       </header>
       <main>
         {/* Info goes here! */}
